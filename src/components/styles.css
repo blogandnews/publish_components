@@ -1,0 +1,21 @@
+.banner-topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border:  1px solid grey;
+}
+
+.banner-topbar .banner-navbar {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.banner-topbar .banner-navbar {
+    
+}
+
+.banner-topbar .banner-navbar .banner-nav-item {
+    list-style-type: none;
+    margin-inline: 15px;
+    border: 1px solid red;
+}
